@@ -1,0 +1,32 @@
+.container{
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+    text-align: center;
+}
+
+.animal{
+    left: 200px;
+    width: 50%;
+    padding: 100px;
+}
+
+#pokemon-img{
+    object-fit: fill;
+}
+
+
+button {
+    font-family: 'Open Sans Condensed', sans-serif;
+    border: 1px solid navy;
+    border-radius: 5px;
+    background-color: white;
+    color: navy;
+    font-size: 1.2em;
+    margin: 10px;
+}
+
+#button-action-text {
+    display: none;
+}
